@@ -1,3 +1,9 @@
+# Hola Mundo
+
+print("Hola Mundo")
+
+
+
 # Variables
 variable = int
 
