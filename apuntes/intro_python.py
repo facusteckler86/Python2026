@@ -64,6 +64,29 @@ len("Facundo")
 nombre_completo= "facundo steckler"
 nombre_completo[4:7] # se indica desde que caracter se corta
 
+# Clase el 21/04/2026
+nombre_completo="facundo steckler"
+nombre_completo[::7]
+
+# Listas y Tuplas
+
+# En listas se usa index, find es solo para strings
+
+datos=(120,135,155)
+
+datos.index(156)
+
+numeros = [1,2,3,4,5,6]
+len(numeros) # para saber el largo de una lista
+
+numeros.append(5)
+numeros.pop(1)
+numeros.count(1) #ver la cantidad de elementos seleccionados
+numeros.index(4) # busca donde esta el elemento seleccionado
+
+mi_tupla = ()
+
+
 
 
 
